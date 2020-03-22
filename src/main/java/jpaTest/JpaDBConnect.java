@@ -23,6 +23,7 @@ public class JpaDBConnect {
         Connection conn = null;
         Statement state = null;
 
+        
         try{
             Class.forName(JDBC_DRIVER);
             conn = DriverManager.getConnection(DB_URL,USER_NAME,PASSWORD);
