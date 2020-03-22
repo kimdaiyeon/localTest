@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ccb2241-ccb9-496b-8d4f-6dc6b037e23f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZTmeyW69IdYjTiWciTl6h0TkpH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="JpaDBConnect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jpaTest.JpaDBConnect" />
+      <module name="localTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jpaTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JpaDBConnect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ccb2241-ccb9-496b-8d4f-6dc6b037e23f" name="Default Changelist" comment="" />
+      <created>1584871559160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584871559160</updated>
+      <workItem from="1584871566045" duration="3787000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="46" key="#Project_Structure" timestamp="1584876267301">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="240" y="46" key="#Project_Structure/0.23.1280.716@0.23.1280.716" timestamp="1584871772969" />
+    <state x="240" y="46" key="#Project_Structure/0.23.1280.723@0.23.1280.723" timestamp="1584875876834" />
+    <state x="240" y="46" key="#Project_Structure/0.23.1280.724@0.23.1280.724" timestamp="1584876267301" />
+    <state x="104" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584871751334">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state x="104" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.716@0.23.1280.716" timestamp="1584871751334" />
+    <state x="505" y="281" width="270" height="274" key="Github.ShareDialog" timestamp="1584876468884">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="505" y="281" key="Github.ShareDialog/0.23.1280.723@0.23.1280.723" timestamp="1584876112110" />
+    <state x="505" y="281" width="270" height="274" key="Github.ShareDialog/0.23.1280.724@0.23.1280.724" timestamp="1584876468884" />
+    <state width="1238" height="176" key="GridCell.Tab.0.bottom" timestamp="1584877361599">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="176" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1584877361599" />
+    <state width="1238" height="176" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1584876867543" />
+    <state width="1238" height="176" key="GridCell.Tab.0.center" timestamp="1584877361598">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="176" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1584877361598" />
+    <state width="1238" height="176" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1584876867542" />
+    <state width="1238" height="176" key="GridCell.Tab.0.left" timestamp="1584877361598">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="176" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1584877361598" />
+    <state width="1238" height="176" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1584876867542" />
+    <state width="1238" height="176" key="GridCell.Tab.0.right" timestamp="1584877361599">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="176" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1584877361599" />
+    <state width="1238" height="176" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1584876867543" />
+    <state width="1238" height="221" key="GridCell.Tab.1.bottom" timestamp="1584877241997">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="221" key="GridCell.Tab.1.bottom/0.23.1280.723@0.23.1280.723" timestamp="1584877241997" />
+    <state width="1238" height="221" key="GridCell.Tab.1.center" timestamp="1584877241996">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="221" key="GridCell.Tab.1.center/0.23.1280.723@0.23.1280.723" timestamp="1584877241996" />
+    <state width="1238" height="221" key="GridCell.Tab.1.left" timestamp="1584877241996">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="221" key="GridCell.Tab.1.left/0.23.1280.723@0.23.1280.723" timestamp="1584877241996" />
+    <state width="1238" height="221" key="GridCell.Tab.1.right" timestamp="1584877241997">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="221" key="GridCell.Tab.1.right/0.23.1280.723@0.23.1280.723" timestamp="1584877241997" />
+    <state x="128" y="23" key="SettingsEditor" timestamp="1584872672292">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="128" y="23" key="SettingsEditor/0.23.1280.723@0.23.1280.723" timestamp="1584872672292" />
+    <state x="317" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1584871566064">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state x="317" y="198" key="com.intellij.ide.util.TipDialog/0.23.1280.716@0.23.1280.716" timestamp="1584871566064" />
+    <state x="415" y="77" key="svn.repositoryBrowser" timestamp="1584877477748">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="415" y="77" key="svn.repositoryBrowser/0.23.1280.723@0.23.1280.723" timestamp="1584877477748" />
+  </component>
+</project>
