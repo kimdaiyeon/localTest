@@ -9,7 +9,7 @@
             <property name="javax.persistence.jdbc.user" value="ediya2"/>
             <property name="javax.persistence.jdbc.password" value="Ediyadb1!"/>
             <property name="javax.persistence.jdbc.url" value="jdbc:mysql://218.39.65.151:3306/ediya2?useSSL=false"/>
-            <property name="hibernate.dialect" value="org.hibernate.dialect.MySQL5Dialect"/>
+            <property name="hibernate.dialect" value="org.hibernate.dialect.MySQLDialect"/>
             <!-- 옵션 -->
             <property name="hibernate.show_sql" value="true"/>
             <property name="hibernate.format_sql" value="true"/>
